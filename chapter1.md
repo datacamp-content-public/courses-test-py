@@ -129,3 +129,86 @@ xp: 50
 
 `@projector_key`
 b9ceebff825c2d6824ca9ff5f1585daa
+
+---
+
+## Insert exercise title here
+
+```yaml
+type: BulletExercise
+key: 0a2736418a
+xp: 100
+```
+
+<!-- Guidelines for contexts: https://instructor-support.datacamp.com/en/articles/2375528-course-iterative-exercises -->
+
+`@pre_exercise_code`
+```{python}
+
+```
+
+***
+
+```yaml
+type: NormalExercise
+key: 4a0404890c
+xp: 50
+```
+
+`@instructions`
+<!-- Guidelines for instructions https://instructor-support.datacamp.com/en/articles/2375526-course-coding-exercises. -->
+- Instruction 1
+- Instruction 2
+
+`@hint`
+<!-- Examples of good hints: https://instructor-support.datacamp.com/en/articles/2379164-hints-best-practices. -->
+- This is an example hint.
+- This is an example hint.
+
+`@sample_code`
+```{python}
+
+```
+
+`@solution`
+```{python}
+
+```
+
+`@sct`
+```{python}
+# Examples of good success messages: https://instructor-support.datacamp.com/en/articles/2299773-exercise-success-messages.
+```
+
+***
+
+```yaml
+type: NormalExercise
+key: 13e0788d17
+xp: 50
+```
+
+`@instructions`
+<!-- Guidelines for instructions https://instructor-support.datacamp.com/en/articles/2375526-course-coding-exercises. -->
+- Instruction 1
+- Instruction 2
+
+`@hint`
+<!-- Examples of good hints: https://instructor-support.datacamp.com/en/articles/2379164-hints-best-practices. -->
+- This is an example hint.
+- This is an example hint.
+
+`@sample_code`
+```{python}
+
+```
+
+`@solution`
+```{python}
+
+```
+
+`@sct`
+```{python}
+# Examples of good success messages: https://instructor-support.datacamp.com/en/articles/2299773-exercise-success-messages.
+```
