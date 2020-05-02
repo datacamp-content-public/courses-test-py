@@ -34,6 +34,24 @@ key: 4382aa6934
 
 ---
 
+## Insert title here...
+
+```yaml
+type: TwoColumns
+key: 20365b093a
+```
+
+`@part1`
+
+
+`@part2`
+
+
+`@script`
+
+
+---
+
 ## Let's practice!
 
 ```yaml
